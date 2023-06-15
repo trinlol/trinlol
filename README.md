@@ -1,8 +1,8 @@
 
 <p align="center">Slowly teaching myself</p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{trinlol}/count.svg" alt="Visitor Count">ff
+<p align="center">Profile views
+  <img src="https://profile-counter.glitch.me/{trinlol}/count.svg" alt="Visitor Count">
 </p>
 
 <p align="center">
