@@ -1,5 +1,5 @@
 <p align="center">
-<img height="250" width="250" src="https://media1.giphy.com/media/bcAXnpZhenJA5McqfL/giphy.gif?cid=ecf05e47jadh3wu638w3hhd4zgm9b2b4oz78rry756tmeiiw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img height="100" width="100" src="https://media1.giphy.com/media/bcAXnpZhenJA5McqfL/giphy.gif?cid=ecf05e47jadh3wu638w3hhd4zgm9b2b4oz78rry756tmeiiw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </p>
   
 <h2 align="center">🌱 I'm teaching myself<h2>
