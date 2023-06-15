@@ -1,3 +1,6 @@
+
+<p align="center">This text will be centered.</p>
+
 ![Visitor Count](https://profile-counter.glitch.me/{trinlol}/count.svg)
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gpmec6uqnvnib33scjlcru4j44&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gpmec6uqnvnib33scjlcru4j44&redirect=true)
