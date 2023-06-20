@@ -2,12 +2,12 @@
 <img height="100" width="100" src="https://media1.giphy.com/media/bcAXnpZhenJA5McqfL/giphy.gif?cid=ecf05e47jadh3wu638w3hhd4zgm9b2b4oz78rry756tmeiiw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </p>
   
-<h2 align="center">🌱 Learning<h2>
+<!-- <h2 align="center">🌱 Learning<h2>
 <p align="center">
 <img height="25" width="25" src="https://cdn.simpleicons.org/html5">
 <img height="25" width="25" src="https://cdn.simpleicons.org/javascript">
 <img height="25" width="25" src="https://cdn.simpleicons.org/css3">
-</p>
+</p> -->
 
   
 <p style="font-size: 1.5em;" align="center">Listening to</p>
