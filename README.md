@@ -1,4 +1,4 @@
-<p align="center"><img height="10" width="15" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> Discord: c1d2 </p>
+<p align="center"><img height="10" width="15" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> c1d2 </p>
 <p align="center">
 <img height="100" width="100" src="https://i.imgur.com/M9s8tcQ.gif">
 </p>
