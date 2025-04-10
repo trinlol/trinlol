@@ -10,7 +10,12 @@
 <img height="25" width="25" src="https://cdn.simpleicons.org/css3">
 </p> -->
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gpmec6uqnvnib33scjlcru4j44&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31gpmec6uqnvnib33scjlcru4j44&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gpmec6uqnvnib33scjlcru4j44&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gpmec6uqnvnib33scjlcru4j44&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
+</p>
+
 
 <!-- <p align="center">
   <img src="https://profile-counter.glitch.me/{trinlol}/count.svg" alt="Visitor Count">
